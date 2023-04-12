@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Pulp Fiction",
+    "price": "20dh",
+    "duration": "3 Hours",
+    "description": "Fiction",
+    "image": "https://placehold.jp/80x80.png"
+  },
+  {
+    "title": "The Gray Man",
+    "price": "30dh",
+    "duration": "2 hours",
+    "description": "Action",
+    "image": "https://placehold.jp/80x80.png"
+  },
+  {
+    "title": "Honney Moon",
+    "price": "20dh",
+    "duration": "3 Hours",
+    "description": "Horror film",
+    "image": "https://placehold.jp/80x80.png"
+  },
+  {
+    "title": "Prince",
+    "price": "30dh",
+    "duration": "2 Hours",
+    "description": "Comedy",
+    "image": "https://placehold.jp/80x80.png"
+  }
+]
